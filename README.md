@@ -71,7 +71,25 @@ By completing this course, you will be able to:
 - 📦 Components: content, padding, border, margin  
 - 🧠 Understanding `box-sizing` and layout impact  
 - 🔍 Debugging using Chrome DevTools  
-- ⚖️ Maintaining visual balance and consistency  
+- ⚖️ Maintaining visual balance and consistency
+
+  ---
+
+  ## 📂 ClassWork  
+
+Hands-on practical projects and examples covered during class sessions:
+
+| Project Name | Description |
+|---------------|-------------|
+| 🧾 **Card Page** | A stylish card layout built using HTML & Flexbox |
+| 🍽️ **Zomato Clone** | Replica of Zomato’s homepage using HTML & CSS |
+| 🌐 **HTML Page** | Basic structured webpage demonstrating semantic tags |
+| 🧮 **Calculator** | Interactive calculator using HTML, CSS, and JavaScript |
+| 💫 **Animation Page** | CSS animations and keyframes for smooth effects |
+| 🕒 **Timetable** | Weekly timetable layout using tables and styling |
+| 🖱️ **Hover Effects** | Interactive hover transitions and animations |
+
+---
 
 ---
 
